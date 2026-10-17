@@ -3,7 +3,7 @@ Got it! Here is your FINAL README with 4 members work. Just delete old README an
 # 📞 ScamCall Co-Pilot - CallSense
 ### 🛡️ Your Second Ear Against Phone Scams
 
-🚀 *Live App:* https://shri-26-arc.github.io/ScamcallCo-pilot_Callsense/
+🚀 *Live App:* https://shri-26-arc.github.io/ScamCall_Co-pilot_Callsense/
 💻 *Repo:* https://github.com/shri-26-arc/ScamcallCo-pilot_Callsense
 
 ### 📖 About
