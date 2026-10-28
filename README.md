@@ -1,5 +1,3 @@
-Got it! Here is your FINAL README with 4 members work. Just delete old README and paste this ONE file:
-
 # 📞 ScamCall Co-Pilot - CallSense
 ### 🛡️ Your Second Ear Against Phone Scams
 
